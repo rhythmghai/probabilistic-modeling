@@ -73,3 +73,8 @@ Using both:
 ```bash
 git clone https://github.com/your-username/no2-pdf-learning-roll-transform.git
 cd no2-pdf-learning-roll-transform
+## Install Dependencies
+pip install -r requirements.txt
+## Run Notebook
+jupyter notebook notebook/NO2_PDF_Learning.ipynb
+
